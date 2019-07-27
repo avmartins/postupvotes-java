@@ -11,6 +11,7 @@ Foi Criado um sistema web que comporta toda a funcionalidade pedida.
   * listar os posts atuais e seus upvotes recebidos - url : http://localhost:8090/api/v1/posts
   * adicionar novo post                             - url : http://localhost:8090/api/v1/post
   * adicionar upvote a um post                      - url : http://localhost:8090/api/v1/postUp/{id}
+  * adicionar downvote a um post                    - url : http://localhost:8090/api/v1/postDown/{id}  
   
 ## Arquitetura do Sistema
  
